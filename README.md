@@ -12,7 +12,7 @@ The easiest way to run the code is to download the notebook, upload to Google Dr
 
 Numpy (1.14.6)\
 Tensorflow (1.13.1)\
-Matplotlib (2.2.4)
+Matplotlib (2.2.4)\
 Pickle
 
 which are all we need to run the code in this repository.
